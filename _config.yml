@@ -3,9 +3,7 @@
 title: Yutong Wang
 email: catherineytw@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  She is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research
-interest is computer graphics , especially in creative tree modeling ,computer animation and sketch-based interactive modeling . Before that, she received her
-B.S. degree in Software Engineering from Chongqing University in 2012.
+  She is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics , especially in creative tree modeling ,computer animation and sketch-based interactive modeling . Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.
 baseurl: "/labrador-jekyll-theme" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 logo: "/assets/img/logo.png"
